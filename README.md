@@ -5,6 +5,8 @@ Facial Attendance System is a project aimed at automating attendance management 
 ## Features
 
 - Real-time face detection and recognition using OpenCV and TensorFlow/Keras models (InceptionV3, ResNet50, DenseNet).
+- Utilized CNN model, transfer learning with ResNet-50, InceptionV3, and DenseNet-121 to achieve accurate facial recognition.
+- Selected InceptionV3 model for capturing due to its highest accuracy of 96%, increasing accurcy from  84%  achieved by the CNN model.
 - Streamlit web application for easy interaction with the attendance system.
 - Logging attendance records in a CSV file.
 - Pickling trained models for easy reusability and deployment.
