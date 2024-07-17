@@ -20,5 +20,5 @@ Facial Attendance System is a project aimed at automating attendance management 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/facial-attendance-system.git
+   git clone https://github.com/Prasadayus/Facial-Attendance-System.git
    cd facial-attendance-system
