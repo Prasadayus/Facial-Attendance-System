@@ -56,14 +56,13 @@ Select the appropriate model architecture and follow the training process.
 ## Logging Attendance
 To log attendance using the Streamlit web application:
 
-1.Launch the Streamlit web application:
+1.Launch the Flask web application:
 ```
-streamlit run app.py
+python app.py
 ```
 2.Use the web interface to start the webcam, recognize faces, and log attendance.
 
-3.Attendance records are stored in CSV files located in the data/ directory.
-
+3.Attendance records are stored in CSV files located in the logs/ directory.
 ## Contributing
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
 
